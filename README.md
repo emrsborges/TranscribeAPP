@@ -42,7 +42,7 @@ https://youtu.be/iyQ1nKhiswU?si=oGLogYznTmVsFulY
 ## Documentação
 #### Para instruções detalhadas sobre como usar, consulte o **Guia Completo de Instalação e Uso do TranscribeAPP**
 
-## Download
+## Download TranscribeAPP_1_4.rar
 
 #### Link Google Drive:
 https://drive.google.com/file/d/1ZaaBnLlahafOdkJnCKgYY-SYcjoMpHGk/view?usp=sharing
