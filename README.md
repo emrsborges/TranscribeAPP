@@ -39,6 +39,9 @@ https://youtu.be/aELPQ9D4ZTM?si=8B7NCDRj3RW8WKqF
 #### 09 Recursos Inovadores na Nova Versão 1.4 do TranscribeAPP: 
 https://youtu.be/iyQ1nKhiswU?si=oGLogYznTmVsFulY
 
+## Documentação
+#### Para instruções detalhadas sobre como usar, consulte o **Guia Completo de Instalação e Uso do TranscribeAPP**
+
 ## Download
 
 #### Link Google Drive:
