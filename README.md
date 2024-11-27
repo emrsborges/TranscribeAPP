@@ -24,3 +24,15 @@ Este é um programa de transcrição de áudio e vídeo utilizando a I.A Whisper
 #### • Base: Modelo padrão para transcrições rápidas.
 #### • Medium: Modelo intermediário para um equilíbrio entre velocidade e precisão.
 #### • Turbo: Modelo avançado para transcrições mais detalhadas.
+
+## Vídeos
+#### Instalação do TranscribeAPP v1.4: 
+https://youtu.be/aELPQ9D4ZTM?si=8B7NCDRj3RW8WKqF
+
+#### 09 Recursos Inovadores na Nova Versão 1.4 do TranscribeAPP: 
+https://youtu.be/iyQ1nKhiswU?si=oGLogYznTmVsFulY
+
+## Download
+
+#### Link Google Drive:
+https://drive.google.com/file/d/1ZaaBnLlahafOdkJnCKgYY-SYcjoMpHGk/view?usp=sharing
