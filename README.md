@@ -1,5 +1,12 @@
 # TranscribeAPP
 Programa que utiliza a inteligência artificial Whisper da OpenAI para realizar transcrições precisas de áudios e vídeos
+
+![image](https://github.com/user-attachments/assets/765e163c-6d13-497e-9806-59b625dd866e)
+
+![image](https://github.com/user-attachments/assets/6601c022-6fbc-4485-8272-615e1ea5bf4e)
+
+![image](https://github.com/user-attachments/assets/3649e4b3-08e4-4f55-8f90-bc0cad1645c8)
+
 ## Transcrição de Áudio e Vídeo com Whisper
 Este é um programa de transcrição de áudio e vídeo utilizando a I.A Whisper da OpenAI. A ferramenta permite a transcrição de arquivos de áudio e vídeo em texto (formato .txt) e legendas (formato .srt), facilitando a análise e o uso desses conteúdos em diferentes contextos.
 
